@@ -29,6 +29,7 @@ body {
   align-items: center;
   margin: 10rem;
 }
+#send-container,
 #message-input {
   width: 80%;
   height: 2rem;
