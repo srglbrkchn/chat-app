@@ -14,12 +14,14 @@ body {
 }
 
 #message-container div {
-  background-color: chocolate;
+  color: chocolate;
+  background-color: burlywood;
   padding: 5px;
 }
 
 #message-container div:nth-child(2n) {
-  background-color: aliceblue;
+  color: chocolate;
+  background-color: burlywood;
 }
 
 #message-form {
